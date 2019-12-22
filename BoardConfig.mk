@@ -38,7 +38,7 @@ TARGET_KERNEL_ARCH := arm64
 #TARGET_KERNEL_CONFIG := ze620kl-user-sdm660-perf_defconfig
 #TARGET_KERNEL_SOURCE := kernel/asus/X00Q
 
-# V16.0615.1905.100
+# V16.0615.1910.112
 TARGET_PREBUILT_KERNEL := device/asus/X00Q/kernel/Image.gz-dtb
 
 # FS
