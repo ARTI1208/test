@@ -25,6 +25,8 @@ PRODUCT_NAME := omni_X00Q
 PRODUCT_BRAND := ASUS
 PRODUCT_DEVICE := X00Q
 
+TW_DEVICE_VERSION := k131
+
 PRODUCT_PROPERTY_OVERRIDES += ro.config.CID=CID_ERROR
 
 # ASUS stuff to successfully build kernel
