@@ -70,3 +70,7 @@ TW_H_OFFSET := -90
 
 # Correct time
 TARGET_RECOVERY_QCOM_RTC_FIX := true
+
+# Fix access denied issue
+BOARD_SEPOLICY_DIRS += device/asus/X00Q/sepolicy
+RECOVERY_SDCARD_ON_DATA := true
